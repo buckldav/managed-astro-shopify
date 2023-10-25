@@ -14,6 +14,8 @@ Tailwind UI free components are used for the design.
 
 ## Shopify Configuration Guide
 
+https://shopify.dev/docs/custom-storefronts/building-with-the-storefront-api/getting-started
+
 - Create a new account or use an existing one. https://accounts.shopify.com/store-login
 - Add the [Shopify Headless channel](https://apps.shopify.com/headless) to your store
 - Click on `Add Storefront`
@@ -70,4 +72,5 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
 ## ⚡️ Lighthouse
+
 ![lighthouse_astro_shopify](https://user-images.githubusercontent.com/10447155/214448698-ce2a1ef6-6fbd-4fca-b8b6-c5194b72a15b.jpg)
